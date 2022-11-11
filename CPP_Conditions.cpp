@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-		c1 = a1 - b1;
+		c1 = a1 - b1; ///
 	}
 
 	c1 = (a1 == b1 ? a1 + b1 : a1 - b1); // ternary operator instead of IF with ELSE
